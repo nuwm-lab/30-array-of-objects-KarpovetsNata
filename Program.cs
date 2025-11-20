@@ -10,7 +10,7 @@ namespace LabWork
 
     class Result
     { 
-    // TODO: do it !
+    // TODO: do it ! kjhkjhkjhkj
     }
     
     class Program
